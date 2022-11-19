@@ -1,2 +1,31 @@
-# manage-of-student
-This is a teacher to manage student information software
+# 功能
+
+- 登入
+- 注册
+- 添加
+- 删除
+- 修改
+- 查找
+- 导出Excel
+- 导入Excel
+
+# 权限
+
+## 教师
+
+1. 添加成绩
+2. 修改成绩
+3. 查找学生
+4. 删除学生
+
+## 学生
+
+1. 添加个人信息
+2. 修改个人信息
+
+# 导出导入
+
+导入导出请excel内的内容按照格式来，否则会导致错误
+
+
+
